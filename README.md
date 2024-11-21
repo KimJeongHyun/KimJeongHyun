@@ -1,10 +1,11 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/KimJeongHyun"
-    width="600"
-    height="120"
+    src="https://render.gitanimals.org/lines/KimJeongHyun?pet-id=647300642895020324"
+    width="800"
+    height="190"
   />
 </a>
+  
   
 
 <!--
